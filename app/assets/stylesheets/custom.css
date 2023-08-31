@@ -1,5 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Montserrat:400,700');
 
+
+
 html {
   font-size: 62.5%;
 }
@@ -26,6 +28,7 @@ a:visited,
 a:active {
   text-decoration: none;
 }
+
 
 i{
   padding: 5px;
